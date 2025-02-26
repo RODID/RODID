@@ -1,27 +1,31 @@
-🌟 Full-Stack Developer in the Making | .NET Enthusiast 🚀
+# 👨‍💻 Fullstack Developer | .NET Enthusiast | Creative & Ambitious 🌟
 
-📍 Göteborg, Sweden
+## ✨ About Me
+Hej! Jag är en passionerad **Fullstack Developer** som brinner för att skapa användarvänliga och effektiva lösningar. Med en stark känsla för **struktur och ordning** är jag alltid fokuserad på att leverera högkvalitativa resultat. Jag är en **kreativ problemlösare** och en lagspelare som älskar att arbeta i utmanande och dynamiska miljöer.
 
-Hi there! 👋 I'm a passionate Full-Stack Developer currently honing my skills in:
+Tar examen snart med en gediger erfarenhet av **C#**, **JavaScript**, **HTML**, **CSS**, **WPF**, och **databashantering** som jag tillsamns byggt i grupp och optimerat applikationer och system.
 
-    🌐 Web Development: Crafting responsive and dynamic user interfaces.
-    ⚙️ Back-End Magic: Building robust APIs with C# and .NET Framework.
-    🗄️ Databases: Designing and managing data with SQL.
-    🖥️ Console Applications: Exploring powerful tools for problem-solving.
+Jag tror på långsiktig utveckling och att skapa värde för både kunder och användare. **Kontakta mig gärna** om du vill samarbeta eller diskutera nya projekt!
 
-🎓 As a dedicated learner, I'm diving deep into full-stack development, creating impactful solutions, and staying at the forefront of technology. My work reflects a commitment to excellence, innovation, and continuous improvement.
-🌟 Skills & Technologies
+## 🔧 Skills & Technologies
+- **Languages**: C#, JavaScript, HTML, CSS
+- **Frameworks**: WPF, ASP.NET Core
+- **Databases**: MySQL, SQL Server Management Studio (SSMS)
+- **APIs**: Swagger, Postman
+- **Tools**: Git, Visual Studio, VS Code
 
-    Languages: C#, JavaScript, HTML/CSS
-    Frameworks: .NET, ASP.NET
-    Tools: Git, Visual Studio, Postman, Swagger
-    Databases: SQL Server, MySQL
+## 🌱 My Goals
+Jag strävar alltid efter att:
+- Skapa användarcentrerade lösningar som förbättrar affärsprocesser
+- Fortsätta växa som utvecklare genom kontinuerlig lärande och nya utmaningar
+- Bygga produkter som levererar både teknisk och affärsmässig framgång
 
-📞 Connect with Me
+## 📬 Get in Touch
+- 📧 **Email**: [Copy Mail](mailto:Arjandogan@gmail.com)
+- 📱 **Phone**: +46 76 582 04 24
+- 🔗 **LinkedIn**: [Go To LinkedIn](https:[//www.linkedin.com/in/din-länk](https://www.linkedin.com/in/rodi-d-762616191/))
 
-📧 Email: ArjanDogan.com
-📞 Phone: +46 765-820-424
-💼 LinkedIn - https://www.linkedin.com/in/rodi-d-762616191/
-🌐 GitHub Portfolio
+---
 
-Let’s build something amazing together! 🚀
+💼 **Let’s build something amazing together!**
+
