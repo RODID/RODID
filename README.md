@@ -23,7 +23,8 @@ Jag strävar alltid efter att:
 ## 📬 Get in Touch
 - 📧 **Email**: [Copy Mail](mailto:Arjandogan@gmail.com)
 - 📱 **Phone**: +46 76 582 04 24
-- 🔗 **LinkedIn**: [Go To LinkedIn](https:[//www.linkedin.com/in/din-länk](https://www.linkedin.com/in/rodi-d-762616191/)
+- 🔗 **LinkedIn**: [Visit my LinkedIn profile](https://www.linkedin.com/in/rodi-d-762616191/)
+
 
 ---
 
